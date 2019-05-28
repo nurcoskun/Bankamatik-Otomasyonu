@@ -1,0 +1,63 @@
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.exe
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.pdb
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\bin\Debug\bm_otomasyonu.exe
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\bin\Debug\bm_otomasyonu.pdb
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.bakiyesorma.resources
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.Form1.resources
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.giris.resources
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.hesapbilgileri.resources
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.hesapislemleri.resources
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.paracekme.resources
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.paratransferi.resources
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.parayatirma.resources
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.Properties.Resources.resources
+C:\Users\ESMA NUR\documents\visual studio 2010\Projects\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csproj.GenerateResource.Cache
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\bin\Debug\bm_otomasyonu.exe
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\bin\Debug\bm_otomasyonu.pdb
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csprojResolveAssemblyReference.cache
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.bakiyesorma.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.Form1.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.giris.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.hesapbilgileri.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.hesapislemleri.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.paracekme.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.paratransferi.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.parayatirma.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.Properties.Resources.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csproj.GenerateResource.Cache
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csproj.CoreCompileInputs.cache
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.exe
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bm_otomasyonu\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.pdb
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\bin\Debug\bm_otomasyonu.exe
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\bin\Debug\bm_otomasyonu.pdb
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csprojResolveAssemblyReference.cache
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.bakiyesorma.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.Form1.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.giris.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.hesapbilgileri.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.hesapislemleri.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.paracekme.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.paratransferi.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.parayatirma.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.Properties.Resources.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csproj.GenerateResource.Cache
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csproj.CoreCompileInputs.cache
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.exe
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\jg\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.pdb
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\bin\Debug\bm_otomasyonu.exe
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\bin\Debug\bm_otomasyonu.pdb
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csprojResolveAssemblyReference.cache
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.bakiyesorma.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.Form1.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.giris.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.hesapbilgileri.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.hesapislemleri.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.paracekme.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.paratransferi.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.parayatirma.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.Properties.Resources.resources
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csproj.GenerateResource.Cache
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.csproj.CoreCompileInputs.cache
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.exe
+\\srvvdifs01\Profiles\BilProgramlama\esmacoskun\Desktop\bankamatik\bm_otomasyonu\obj\x86\Debug\bm_otomasyonu.pdb
